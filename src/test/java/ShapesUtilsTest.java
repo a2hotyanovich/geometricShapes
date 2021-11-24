@@ -161,7 +161,7 @@ public class ShapesUtilsTest {
 
     @Nested
     class deleteShapesTest{
-//new comment
+
         @Test
         @DisplayName("All shapes are removed from the file")
         void deleteAllShapesTest() {
